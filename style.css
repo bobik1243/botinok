@@ -1,0 +1,25 @@
+.block {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-image: url(razobrannyj-divan.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.text {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	color: blue;
+}
+.pivo {
+	height:200px;
+	width: 100px;
+}
+body {
+	background-image: url(images.jfif);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
